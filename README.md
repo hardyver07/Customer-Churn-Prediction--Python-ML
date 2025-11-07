@@ -1,4 +1,4 @@
-# Telecom-Churn-Prediction--Python-ML
+# Customer-Churn-Prediction--Python-ML
 ## 📌 Overview
 This project focuses on predicting customer churn in the telecom industry using supervised machine learning. By analyzing customer behavior and service usage patterns, the model helps identify churn-prone users and supports proactive retention strategies.
 ## 🛠 Tools & Technologies
